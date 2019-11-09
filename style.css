@@ -1,0 +1,21 @@
+.banner-image{
+     padding-top: 75px;
+     padding-bottom: 50px;
+     text-align: center;
+     color: #f8f8f8; 
+     background-size: cover;
+
+}
+
+#background-image{
+    background-image:url();
+}
+
+.banner-content{
+     position: relative;
+     padding: 2% 18% 2% 18%;
+     margin-left: 22%;
+     margin-right: 22%;
+     background-color: rgba(0, 0, 0, 0.7);
+     max-width: 660px;
+}
